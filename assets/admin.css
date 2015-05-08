@@ -1,0 +1,28 @@
+.hidden {
+	display: none !important;
+}
+
+table.visage td td {
+	text-align: left;
+	vertical-align: top;
+	padding: 0;
+}
+
+table.visage td table {
+	width: 25em;
+}
+
+table.visage td td:first-child {
+	width: 35%;
+}
+
+table.visage select {
+	display: block;
+	margin-top: 15px;
+	width: 100%;
+}
+
+table.visage .description {
+	display: block;
+	margin-top: 15px;
+}

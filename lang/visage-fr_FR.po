@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Visage\n"
+"POT-Creation-Date: 2015-03-08 13:54+0100\n"
+"PO-Revision-Date: 2015-03-08 13:55+0100\n"
+"Last-Translator: Leonard Lamprecht <mindrun@icloud.com>\n"
+"Language-Team: Leonard Lamprecht <mindrun@icloud.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: main.php:80
+#, php-format
+msgid ""
+"%1$sWarning:%2$s The default avatar rating is currently set to \"%3$s\", and "
+"your personal avatar has the rating \"%4$s\"."
+msgstr ""
+"%1$sAvertissement:%2$s La note de défaut avatar est actuellement fixé à "
+"\"%3$s\", et votre avatar personnel a la cote \"%4$s\"."
+
+#: main.php:93
+msgid "Allow users to set their own avatars easily."
+msgstr ""
+"﻿Permettre aux utilisateurs de définir facilement leurs propres avatars."
+
+#: main.php:111
+msgid "Choose a custom avatar"
+msgstr "﻿Choisir un avatar personnalisé"
+
+#: main.php:112
+msgid "Select"
+msgstr "﻿Selectionner"
+
+#: option.php:3
+msgid "Personal Avatar"
+msgstr "﻿Avatar personnelles"
+
+#: option.php:11
+msgid "Change"
+msgstr "﻿Changer"
+
+#: option.php:12
+msgid "Delete"
+msgstr "﻿Supprimer"
+
+#: option.php:18
+msgid "G &#8212; Suitable for all audiences"
+msgstr "G &#8212; Convient pour tous les publics"
+
+#: option.php:19
+msgid "PG &#8212; Possibly offensive, usually for audiences 13 and above"
+msgstr "PG &#8212; Peut-offensive, en général pour le public et 13 ci-dessus"
+
+#: option.php:20
+msgid "R &#8212; Intended for adult audiences above 17"
+msgstr "﻿R &#8212; Destiné à un public adulte supérieures à 17"
+
+#: option.php:21
+msgid "X &#8212; Even more mature than above"
+msgstr "X &#8212; ﻿Encore plus envahissant que celle des filaires"
